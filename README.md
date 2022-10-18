@@ -26,7 +26,7 @@ docker run -dp <hostport>:<container port> image id Builds the container locally
 docker container ls -a Displays all Docker containers(Both Inactive and active)
 ![](Images/listing_all_containers.png)
 
-docker rm <containerid> Deleted Docker containers
+docker rm <containerid>   Deletes the mentioned Docker container
 ![](Images/deleting_container.png)
 
 docker rmi -f <image_name> Deletes the Docker image
