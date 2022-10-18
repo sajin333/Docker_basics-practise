@@ -17,16 +17,16 @@ docker images Shows the list of Docker Images
 docker ps Shows the list of active Docker containers
 ![](Images/active_container.png)
 
-docker stop <container id> Stops the container
+docker stop container id Stops the container
 ![](Images/stopping_container.png)
 
-docker run -dp <hostport>:<container port> image id Builds the container locally using the mentioned image id
+docker run -dp hostport:container port image id Builds the container locally using the mentioned image id
 ![](Images/running_docker_image_becoming_container_jupyternotebook.png)
 
 docker container ls -a Displays all Docker containers(Both Inactive and active)
 ![](Images/listing_all_containers.png)
 
-docker rm <containerid>   Deletes the mentioned Docker container
+docker rm containerid   Deletes the mentioned Docker container
 ![](Images/deleting_container.png)
 
 docker rmi -f image_name Deletes the Docker image
