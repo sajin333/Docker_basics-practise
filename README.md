@@ -1,4 +1,4 @@
-# Docker_basics-practise
+# Basic docker commands and its explanation
 
 docker --version Displays the version of the Docker installed in the local machine
 
