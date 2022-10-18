@@ -51,6 +51,8 @@ docker push userprofile/image_name:tag_name   Pushes the image to user's Dockerh
 Downloads the docker image to local system
 ![](Images/docker_pull.png)
 
+docker logs -f containerid Shows the logs of the mentioned container
 ![](Images/docker_logs.png)
 
+docker inspect containerid Shows detailed description of the mentioned container id
 ![](Images/docker_inspect.png)
