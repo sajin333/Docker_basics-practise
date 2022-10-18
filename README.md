@@ -56,3 +56,16 @@ docker logs -f containerid Shows the logs of the mentioned container
 
 docker inspect containerid Shows detailed description of the mentioned container id
 ![](Images/docker_inspect.png)
+
+# Task2
+
+Pulling Docker Image "Hello world" from Dockerhub and storing it locally
+
+![](Task2/pulling_helloworld_image.png) 
+
+
+
+Running the docker image locally
+
+![](Task2/Running_Hello_World_Docker_Image_locally.png) 
+
