@@ -1,3 +1,5 @@
 # Docker_basics-practise
 
-Images folder contains all basic docker commands with its screenshot
+docker --version Displays the version of the Docker installed in the local machine
+
+![](Images/docker_version.png)  
