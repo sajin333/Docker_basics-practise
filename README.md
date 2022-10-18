@@ -20,7 +20,7 @@ docker ps Shows the list of active Docker containers
 docker stop <container id> Stops the container
 ![](Images/stopping_container.png)
 
-docker run -dp <hostport>:<container port> image id
+docker run -dp <hostport>:<container port> image id Builds the container locally using the mentioned image id
 ![](Images/running_docker_image_becoming_container_jupyternotebook.png)
 
 docker container ls -a Displays all Docker containers(Both Inactive and active)
