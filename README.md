@@ -69,3 +69,31 @@ Running the docker image locally
 
 ![](Task2/Running_Hello_World_Docker_Image_locally.png) 
 
+
+# Task3
+
+Creating Hello world application
+![](Task3/Hello_world_fastapi_application.png)
+
+Creating Dockerfile configuration
+![](Task3/dockerfile.png)
+
+Building Docker Image
+![](Task3/building_docker_image.png)
+
+Running the Docker image to convert it as a container
+![](Task3/starting_container_fromthe_image_build.png)
+
+Container as a webpage created which can be accessed locally
+![](Task3/container_running_as_webpage.png)
+
+Pusing Docker images to useraccount Dockerhub
+![](Task3/pushing_dockerimage_to_dockerhub.png)
+
+Created Docker image in Dockerhub
+![](Task3/image_in_dockerhub.png)
+
+Docker image creation in Dockerhub useraccount profile
+![](Task3/docker_image_created_in_dockerhub_profile.png)
+
+
